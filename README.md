@@ -1,3 +1,10 @@
+##Boise.Data.gov
+
+*City of Boise Changes*
+
+City of Boise IT is modifying this Wordpress theme from [GSA] (https://github.com/GSA/data.gov) for a local Open Data Warehouse and Blog (July 2015)
+
+
 # Data.gov  
 
 [Data.gov](http://data.gov) is an open data website created by the [U.S. General Services Administration](https://github.com/GSA/) that is based on two robust open source projects: [CKAN](http://ckan.org) and [WordPress](http://wordpress.org). The data catalog at [catalog.data.gov](https://catalog.data.gov) is powered by CKAN, while the content seen at [Data.gov](http://Data.gov) is powered by WordPress.  
