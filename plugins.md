@@ -29,6 +29,7 @@
 * no-category-base-wpml        1.1.0    http://github.com/mines/no-category-base-wpml
 * wp-no-taxonomy-base          1.1      http://markoheijnen.com/
 * m-wp-popup                   0.5      http://rocketplugins.com/wordpress-popup-plugin/
+* the-events-calendar          3.11.2   https://theeventscalendar.com/product/wordpress-events-calendar/
 
 
 ## Locally hosted or modified plugins
